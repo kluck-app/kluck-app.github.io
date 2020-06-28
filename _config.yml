@@ -65,7 +65,7 @@ features                                  :
     description                           : Complaints and requests can be received through customer inquiries, which will be updated immediately.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Advertising
+  - title                                 : Advertising.
     description                           : Through advertising inquiries, you can promote restaurants and sites with main advertisements or button links.
     fontawesome_icon_name                 : info-circle
 
