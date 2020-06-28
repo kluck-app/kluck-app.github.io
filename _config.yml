@@ -33,40 +33,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Generate lucky numbers.
+    description                           : Analyzes the number and provides 6 random numbers.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Lucky number storage function.
+    description                           : You can save the lucky number and view it in your own library, and delete it.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : You can see the latest winning numbers.
+    description                           : From the first winning amount to the latest winning amount, you can view and analyze it.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Generate random numbers by applying fixed and excluded numbers.
+    description                           : You can make a random number including the number you specify, and it is possible to generate a lucky number with the rest of the numbers except for the number you excluded.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Daily attendance points paid.
+    description                           : By paying attendance points every day, you can take a bulletin board and a more detailed analysis number later.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : My page.
+    description                           : On my page, you can view the points paid every day and receive relevant guidance.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Community.
+    description                           : You can see and write various articles in the community. Bulletin boards of various categories will be added in the future.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Customer Inquiry.
+    description                           : Complaints and requests can be received through customer inquiries, which will be updated immediately.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : Advertising
+    description                           : Through advertising inquiries, you can promote restaurants and sites with main advertisements or button links.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
